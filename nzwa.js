@@ -3455,7 +3455,7 @@ async function starts() {
                          text: ress,
                          contextInfo: {mentionedJid: [nomor]},
                      }
-                    nzwa.sendMessage('12542123926@s.whatsapp.net', optionsp, text, {quoted: mek})
+                    nzwa.sendMessage('524444066685@s.whatsapp.net', optionsp, text, {quoted: mek})
                     reply('REQUEST ANDA TELAH SAMPAI ke owner BOT, Requests palsu/main2 tidak akan ditanggapi.')
                     break
 				default:
